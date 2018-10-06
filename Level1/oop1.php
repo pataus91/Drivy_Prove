@@ -7,8 +7,11 @@ class Price_Calculation {
 	}
 
 	function calculatePrice () {
-		
+
 	}
 
 
 }
+
+$price = new Price_Calculation;
+$finalPrice -> calculatePrice;
